@@ -1,4 +1,6 @@
-project = Navruf GPS
+
+
+project = '-'
 author = 'Your Name'
 release = '1.0'
 
@@ -12,4 +14,4 @@ html_static_path = ['_static']
 html_js_files = [
     'chatbot.js',
 ]
-
+html_favicon = '_static/download.png'
